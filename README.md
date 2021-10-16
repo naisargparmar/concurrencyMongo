@@ -9,7 +9,9 @@ How really locking and transaction works with concurrent request in mongodb?
 2. Open terminal and change path to concurrencyMongo
 3. node -v
    v12.13.1
+   
    If node not v12.13.1 then use nvm to change node version for particular concurrencyMongo folder
+   
    nvm use v12.13.1
 4. npm install
 5. npm start
