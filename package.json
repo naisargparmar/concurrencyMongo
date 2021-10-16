@@ -1,0 +1,28 @@
+{
+  "name": "concurrency-be",
+  "version": "1.0.0",
+  "description": "How really locking and transaction works with concurrent request in mongodb?",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naisargparmar/concurrencyMongo.git"
+  },
+  "keywords": [
+    "concurrency",
+    "transaction"
+  ],
+  "author": "Naisarg Parmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naisargparmar/concurrencyMongo/issues"
+  },
+  "homepage": "https://github.com/naisargparmar/concurrencyMongo#readme"
+}
