@@ -1,6 +1,9 @@
 # ConcurrencyMongo
 How really locking and transaction works with concurrent request in mongodb?
 
+# Requirement
+1. Node version I have used v12.13.1
+
 # How to setup?
 1. Clone concurrencyMongo folder.
 2. Open terminal and change path to concurrencyMongo
