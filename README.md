@@ -16,9 +16,16 @@ How really locking and transaction works with concurrent request in mongodb?
 4. npm install
 5. npm start
 
+# Jmeter Testing
+1. How to run test? See video under concurrencyMongo/Jmeter/runjmeter.mp4
+
+Note: All files related to jmeter is under concurrencyMongo/Jmeter/
+
+
 # Api endpoint
 1. Url: http://127.0.0.1:3001/insert
    
    Method: Post
    
    body: {email: "naisarg.parmar@yahoo.com"}
+
